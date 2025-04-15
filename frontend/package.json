@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "keywords": [],
   "author": "",
@@ -22,8 +24,4 @@
     "tailwindcss": "^4.1.4"
   }
 }
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "serve": "vite preview"
-}
+
