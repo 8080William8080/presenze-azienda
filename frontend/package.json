@@ -1,11 +1,10 @@
 {
   "name": "registro-presenze-frontend",
   "version": "1.0.0",
- "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "serve": "vite preview"
-}
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "dependencies": {
     "axios": "^1.4.0",
